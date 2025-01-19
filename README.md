@@ -2,7 +2,7 @@
 
 # Welcome to My Coding Journey 🚀
 
-Hi, I'm [Your Name], a **19-year-old engineering prep student** with a passion for software development. As a **junior web developer**, I'm on a mission to hone my skills, contribute to impactful projects, and grow in the tech world. Whether it's crafting clean, responsive web applications or exploring the depths of programming languages, I'm constantly learning and striving to improve.
+Hi, I'm Cédric, a **19-year-old engineering prep student** with a passion for software development. As a **junior web developer**, I'm on a mission to hone my skills, contribute to impactful projects, and grow in the tech world. Whether it's crafting clean, responsive web applications or exploring the depths of programming languages, I'm constantly learning and striving to improve.
 
 ---
 
