@@ -22,76 +22,96 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 
 ## 💡 Skills and Technologies
 
+---
+
 ### **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic&label=)  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=plastic&label=)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=plastic&label=)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="40">  
+<img src="https://img.shields.io/badge/-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C" height="40">  
+<img src="https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" height="40">  
+<img src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="40">  
+</div>
+
+---
 
 ### **Frontend Development**
 
-![HTML5](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=plastic&label=)  
-![CSS3](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=plastic&label=)  
-![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=plastic&label=)  
-![Tailwind CSS](https://img.shields.io/badge/-38B2AC?logo=tailwind-css&logoColor=white&style=plastic&label=)  
-![React](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=plastic&label=)  
-![Redux Toolkit](https://img.shields.io/badge/-764ABC?logo=redux&logoColor=white&style=plastic&label=)  
-![Next.js](https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="40">  
+<img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" height="40">  
+<img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" height="40">  
+<img src="https://img.shields.io/badge/-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" height="40">  
+<img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" height="40">  
+<img src="https://img.shields.io/badge/-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit" height="40">  
+<img src="https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" height="40">  
+</div>
 
 ---
 
 ### **Backend Development**
 
-![Node.js](https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&style=plastic&label=)  
-![Express.js](https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=plastic&label=)  
-![AdonisJS](https://img.shields.io/badge/-220052?logo=adonisjs&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" height="40">  
+<img src="https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" height="40">  
+<img src="https://img.shields.io/badge/-220052?logo=adonisjs&logoColor=white&style=for-the-badge" alt="AdonisJS" height="40">  
+</div>
 
 ---
 
 ### **Databases**
 
-![MySQL](https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&style=plastic&label=)  
-![MongoDB](https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&style=plastic&label=)  
-![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic&label=)  
-![SQLite](https://img.shields.io/badge/-003B57?logo=sqlite&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" height="40">  
+<img src="https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" height="40">  
+<img src="https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" height="40">  
+<img src="https://img.shields.io/badge/-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" height="40">  
+</div>
 
 ---
 
 ### **Cloud Infrastructure**
 
-![Firebase](https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" height="40">  
+</div>
 
 ---
 
 ### **Other Tools**
 
-![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=plastic&label=)  
-![Vite](https://img.shields.io/badge/-646CFF?logo=vite&logoColor=white&style=plastic&label=)  
-![EmailJS](https://img.shields.io/badge/-E4455F?logo=email&logoColor=white&style=plastic&label=)  
-![Vercel](https://img.shields.io/badge/-000000?logo=vercel&logoColor=white&style=plastic&label=)  
-![CMake](https://img.shields.io/badge/-064F8C?logo=cmake&logoColor=white&style=plastic&label=)  
-![npm](https://img.shields.io/badge/-CB3837?logo=npm&logoColor=white&style=plastic&label=)  
-![tkinter](https://img.shields.io/badge/-FF9900?logo=python&logoColor=white&style=plastic&label=)  
-![GTK](https://img.shields.io/badge/-5793E3?logo=gtk&logoColor=white&style=plastic&label=)  
-![Pygame](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=plastic&label=)  
-![ESLint](https://img.shields.io/badge/-4B32C3?logo=eslint&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="40">  
+<img src="https://img.shields.io/badge/-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" height="40">  
+<img src="https://img.shields.io/badge/-E4455F?logo=email&logoColor=white&style=for-the-badge" alt="EmailJS" height="40">  
+<img src="https://img.shields.io/badge/-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" height="40">  
+<img src="https://img.shields.io/badge/-064F8C?logo=cmake&logoColor=white&style=for-the-badge" alt="CMake" height="40">  
+<img src="https://img.shields.io/badge/-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm" height="40">  
+<img src="https://img.shields.io/badge/-FF9900?logo=python&logoColor=white&style=for-the-badge" alt="tkinter" height="40">  
+<img src="https://img.shields.io/badge/-5793E3?logo=gtk&logoColor=white&style=for-the-badge" alt="GTK" height="40">  
+<img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" height="40">  
+<img src="https://img.shields.io/badge/-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint" height="40">  
+</div>
 
 ---
 
 ### **Development Environment**
 
-![PyCharm](https://img.shields.io/badge/-000000?logo=pycharm&logoColor=white&style=plastic&label=)  
-![VS Code](https://img.shields.io/badge/-007ACC?logo=visual-studio-code&logoColor=white&style=plastic&label=)  
-![Ubuntu](https://img.shields.io/badge/-E95420?logo=ubuntu&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-000000?logo=pycharm&logoColor=white&style=for-the-badge" alt="PyCharm" height="40">  
+<img src="https://img.shields.io/badge/-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" height="40">  
+<img src="https://img.shields.io/badge/-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">  
+</div>
 
 ---
 
 ### **🌱 Currently Learning**
 
-![Java](https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=plastic&label=)  
-![C++](https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white&style=plastic&label=)  
-![Vue.js](https://img.shields.io/badge/-4FC08D?logo=vue.js&logoColor=white&style=plastic&label=)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" height="40">  
+<img src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="40">  
+<img src="https://img.shields.io/badge/-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" height="40">  
+</div>
 
 ---
 
