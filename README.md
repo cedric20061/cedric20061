@@ -95,6 +95,13 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 
 ---
 
+## **🌱 Currently Learning**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white&labelColor=red&color=orange" alt="Java" height="40">  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=black&color=purple" alt="C++" height="40">   
+<img src="https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white&style=flat&labelColor=purple&color=darkpurple" alt="Vue.js" height="40"> </div>
+
 ### **Development Environment**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
