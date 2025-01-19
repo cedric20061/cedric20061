@@ -27,10 +27,10 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Programming Languages**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="40">  
-<img src="https://img.shields.io/badge/-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C" height="40">  
-<img src="https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" height="40">  
-<img src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="40">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFD43B&color=blue" alt="Python" height="40">  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black&labelColor=white&color=skyblue" alt="C" height="40">  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white&labelColor=red&color=orange" alt="Java" height="40">  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=black&color=purple" alt="C++" height="40">  
 </div>
 
 ---
@@ -38,13 +38,13 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Frontend Development**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="40">  
-<img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" height="40">  
-<img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" height="40">  
-<img src="https://img.shields.io/badge/-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" height="40">  
-<img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" height="40">  
-<img src="https://img.shields.io/badge/-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit" height="40">  
-<img src="https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" height="40">  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=orange&color=red" alt="HTML5" height="40">  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=blue&color=cyan" alt="CSS3" height="40">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=yellow&color=gold" alt="JavaScript" height="40">  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=teal&color=green" alt="Tailwind CSS" height="40">  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=skyblue&color=blue" alt="React" height="40">  
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&labelColor=purple&color=indigo" alt="Redux Toolkit" height="40">  
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=gray&color=black" alt="Next.js" height="40">  
 </div>
 
 ---
@@ -52,9 +52,9 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Backend Development**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" height="40">  
-<img src="https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" height="40">  
-<img src="https://img.shields.io/badge/-220052?logo=adonisjs&logoColor=white&style=for-the-badge" alt="AdonisJS" height="40">  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=green&color=limegreen" alt="Node.js" height="40">  
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=gray&color=black" alt="Express.js" height="40">  
+<img src="https://img.shields.io/badge/AdonisJS-220052?style=flat&logo=adonisjs&logoColor=white&labelColor=purple&color=maroon" alt="AdonisJS" height="40">  
 </div>
 
 ---
@@ -62,18 +62,10 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Databases**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" height="40">  
-<img src="https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" height="40">  
-<img src="https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" height="40">  
-<img src="https://img.shields.io/badge/-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" height="40">  
-</div>
-
----
-
-### **Cloud Infrastructure**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" height="40">  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=blue&color=royalblue" alt="MySQL" height="40">  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=green&color=limegreen" alt="MongoDB" height="40">  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=blue&color=navy" alt="PostgreSQL" height="40">  
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=teal&color=blue" alt="SQLite" height="40">  
 </div>
 
 ---
@@ -81,16 +73,10 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Other Tools**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="40">  
-<img src="https://img.shields.io/badge/-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" height="40">  
-<img src="https://img.shields.io/badge/-E4455F?logo=email&logoColor=white&style=for-the-badge" alt="EmailJS" height="40">  
-<img src="https://img.shields.io/badge/-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" height="40">  
-<img src="https://img.shields.io/badge/-064F8C?logo=cmake&logoColor=white&style=for-the-badge" alt="CMake" height="40">  
-<img src="https://img.shields.io/badge/-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm" height="40">  
-<img src="https://img.shields.io/badge/-FF9900?logo=python&logoColor=white&style=for-the-badge" alt="tkinter" height="40">  
-<img src="https://img.shields.io/badge/-5793E3?logo=gtk&logoColor=white&style=for-the-badge" alt="GTK" height="40">  
-<img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" height="40">  
-<img src="https://img.shields.io/badge/-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint" height="40">  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=orange&color=red" alt="Git" height="40">  
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=blue&color=cyan" alt="VS Code" height="40">  
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=blue&color=purple" alt="Vite" height="40">  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=yellow&color=gold" alt="Firebase" height="40">  
 </div>
 
 ---
@@ -98,26 +84,14 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 ### **Development Environment**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-000000?logo=pycharm&logoColor=white&style=for-the-badge" alt="PyCharm" height="40">  
-<img src="https://img.shields.io/badge/-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" height="40">  
-<img src="https://img.shields.io/badge/-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">  
-</div>
-
----
-
-### **🌱 Currently Learning**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" height="40">  
-<img src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="40">  
-<img src="https://img.shields.io/badge/-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" height="40">  
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=orange&color=red" alt="Ubuntu" height="40">  
 </div>
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: [cedricguidi735@gmail.com]
+- 📧 Email: cedricguidi735@gmail.com
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com) -->
 
