@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 <h1 style="text-align: center; font-size: 18px">Hi there 👋</h1>
 <h2 style="text-align: center;">Welcome to My Coding Journey 🚀</h2>
 </div>
