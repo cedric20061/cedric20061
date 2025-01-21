@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-<h1>Hi there 👋</h1>
-<h2>Welcome to My Coding Journey 🚀</h2>
+<h1 style="text-align: center; font-size: 18px">Hi there 👋</h1>
+<h2 style="text-align: center;">Welcome to My Coding Journey 🚀</h2>
 </div>
 
 Hi, I'm Cédric, a **19-year-old engineering prep student** with a passion for software development. As a **junior web developer**, I'm on a mission to hone my skills, contribute to impactful projects, and grow in the tech world. Whether it's crafting clean, responsive web applications or exploring the depths of programming languages, I'm constantly learning and striving to improve.
