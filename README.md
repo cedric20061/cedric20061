@@ -1,6 +1,9 @@
-## Hi there 👋
+<div style="text-align: center;">
+  ## Hi there 👋
 
 # Welcome to My Coding Journey 🚀
+
+</div>
 
 Hi, I'm Cédric, a **19-year-old engineering prep student** with a passion for software development. As a **junior web developer**, I'm on a mission to hone my skills, contribute to impactful projects, and grow in the tech world. Whether it's crafting clean, responsive web applications or exploring the depths of programming languages, I'm constantly learning and striving to improve.
 
@@ -17,6 +20,20 @@ Hi, I'm Cédric, a **19-year-old engineering prep student** with a passion for s
 ## 🌟 Opportunity Alert
 
 I'm actively seeking a **remote, paid internship** as a **junior software developer**. I'm eager to gain hands-on experience, collaborate with teams, and contribute to impactful projects. If you have opportunities available, let’s connect!
+
+---
+
+## ⚡ Fun facts
+
+-I'm a nerd passionate by **science fiction**, **video games**, and **reading**.
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: cedricguidi735@gmail.com
+<!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com) -->
 
 ---
 
@@ -95,27 +112,23 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 
 ---
 
+### **Development Environment**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=orange&color=red" alt="Ubuntu" height="40">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=blue&color=cyan" alt="VS Code" height="40">  
+<img src="https://img.shields.io/badge/pycharm-007ACC?style=flat&logo=pycharm&logoColor=white&labelColor=blue&color=cyan" alt="Pycharm" height="40">  
+<img src="https://img.shields.io/badge/Code_Bloc-007ACC?style=flat&logo=codebloc&logoColor=white&labelColor=blue&color=cyan" alt="Code bloc" height="40">  
+</div>
+
+---
+
 ## **🌱 Currently Learning**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white&labelColor=red&color=orange" alt="Java" height="40">  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=black&color=purple" alt="C++" height="40">   
 <img src="https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white&style=flat&labelColor=purple&color=darkpurple" alt="Vue.js" height="40"> </div>
-
-### **Development Environment**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=orange&color=red" alt="Ubuntu" height="40">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=blue&color=cyan" alt="VS Code" height="40">  
-</div>
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: cedricguidi735@gmail.com
-<!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com) -->
 
 ---
 
