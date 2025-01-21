@@ -23,7 +23,7 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 
 ## ⚡ Fun facts
 
--I'm a nerd passionate by **science fiction**, **video games**, and **reading**.
+- I'm a nerd passionate by **science fiction**, **video games**, and **reading**.
 
 ---
 
@@ -37,7 +37,6 @@ I'm actively seeking a **remote, paid internship** as a **junior software develo
 
 ## 💡 Skills and Technologies
 
----
 
 ### **Programming Languages**
 
