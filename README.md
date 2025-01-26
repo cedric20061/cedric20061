@@ -1,5 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-<h1 style="text-align: center; font-size: 18px">Hi there 👋</h1>
+  <div align=center>
+   <h1 style="text-align: center; font-size: 18px">Hi there 👋</h1>
+  </div>
+  <br />
+
+<div align=center;">
 <h2 style="text-align: center;">Welcome to My Coding Journey 🚀</h2>
 </div>
 
