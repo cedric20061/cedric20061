@@ -3,7 +3,7 @@
   </div>
   <br />
 
-<div align=center;">
+<div align=center">
 <h2 style="text-align: center;">Welcome to My Coding Journey 🚀</h2>
 </div>
 
