@@ -14,7 +14,7 @@ Hi, I'm Cédric, a **19-year-old engineering prep student** with a passion for s
 
 - 🎓 I'm currently studying in an engineering preparatory program, building a strong foundation in mathematics, computer science, and problem-solving.
 - 💻 I have hands-on experience with **web development**, including frontend and backend technologies and capable of developing full-stack applications using the MERN stack (MongoDB, Express, React, Node.js) and building scalable apps with Next.js.
-- 🐍 I also excel in **Python** and **C** and am currently diving into **Java** and **C++** to expand my programming toolkit.
+- 🐍 I also good in **Python**, **C** and **Typescript** and am currently diving into **Java** and **C++** to expand my programming toolkit.
 
 ---
 
