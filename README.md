@@ -92,5 +92,15 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 - Performance optimization and deployment strategies
 
 ---
+# My GitHub Stats 🚀
+
+## 📊 GitHub Overview
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric20061&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric20061&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=cedric20061&theme=radical)
+
+---
+
 
 > Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just say hi 👋
