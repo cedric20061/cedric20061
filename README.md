@@ -23,7 +23,7 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 
 ## ⚡ Fun Facts
 
-- A proud nerd who loves **science fiction**, **video games**, and **reading** 📚🎮🚀
+- A proud nerd who loves **animes**, **video games**, and **reading** 📚🎮🚀
 
 ---
 
