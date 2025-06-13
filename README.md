@@ -46,7 +46,7 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 ### 🌐 Frontend / Backend / Fullstack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,adonis&perline=8" />
 </div>
 
 ###  Data base
