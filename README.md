@@ -90,7 +90,7 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 
 ## 🌱 Currently Learning
 
-- **Three.js**, **Better-Auth**, **Spring Boot**
+- **Three.js**, **Better-Auth**
 - Advanced **C++** & **Java**
 - PWA & performance optimization
 
