@@ -99,7 +99,6 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 ## 📊 GitHub Overview
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric20061&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric20061&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cedric20061&theme=radical)
 
 ---
