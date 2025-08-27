@@ -4,7 +4,6 @@
 </div>
 
 Hi, I'm **Cédric**, a **19-year-old engineering prep student** passionate about software development. As a **junior developer**, I'm on a mission to sharpen my skills, contribute to meaningful projects, and grow in the tech world. Whether it's crafting clean, responsive web apps or diving deep into new technologies, I'm always learning and evolving.
-
 ---
 
 ## 🧑‍💻 About Me
@@ -12,7 +11,6 @@ Hi, I'm **Cédric**, a **19-year-old engineering prep student** passionate about
 - 🎓 Currently studying in an engineering preparatory program, building a solid foundation in mathematics, computer science, and problem-solving.
 - 💻 Hands-on experience with **full-stack web development** using the **MERN stack**, and exploring scalable apps with **Next.js**.
 - 🐍 Proficient in **Python**, **C**, and **TypeScript**, and currently diving into **Java** and **C++**.
-
 ---
 
 ## 🌟 Opportunity Alert
