@@ -3,7 +3,7 @@
   <h2>Welcome to My Coding Journey</h2>
 </div>
 
-Hi, I'm **Cédric**, a **19-year-old engineering student** passionate about software development. As a **junior developer**, I'm on a mission to sharpen my skills, contribute to meaningful projects, and grow in the tech world. Whether it's crafting clean, responsive web apps or diving deep into new technologies.
+Hi, I'm **Cédric**, a **19-year-old engineering student** passionate about software development. As a **junior developer**, I'm on a mission to sharpen my skills, contribute to meaningful projects, and grow in the tech world.
 ---
 
 ## 🧑‍💻 About Me
