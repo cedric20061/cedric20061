@@ -30,7 +30,6 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 - 📧 Email: [cedricguidi735@gmail.com](mailto:cedricguidi735@gmail.com)
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com) -->
-
 ---
 
 ## 💡 Skills & Technologies
