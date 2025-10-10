@@ -99,5 +99,4 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cedric20061&theme=radical)
 
 ---
-
 > Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just say hi 👋
