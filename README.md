@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="font-size: 24px;">Hi there</h1>
-  <h2>Welcome to My Coding Journey</h2>
 </div>
 
 Hi, I'm **Cédric**, a **19-year-old engineering student** passionate about software development. As a **junior developer**, I'm on a mission to sharpen my skills, contribute to meaningful projects, and grow in the tech world.
