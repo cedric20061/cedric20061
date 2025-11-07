@@ -9,7 +9,7 @@ Hi, I'm **Cédric**, a **19-year-old engineering student** passionate about soft
 
 - 🎓 Currently studying in an engineering program, building a solid foundation in mathematics, computer science, and problem-solving.
 - 💻 Hands-on experience with **full-stack web development** using the **MERN stack**, and exploring scalable apps with **Next.js**.
-- 🐍 Proficient in **Python**, **C**, and **TypeScript**, and currently diving into **Java** and **C++**.
+- 🐍 Proficient in **Python**, **C**, and **TypeScript**, and currently diving into **C++**.
 ---
 
 ## 🌟 Opportunity Alert
