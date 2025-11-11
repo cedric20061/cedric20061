@@ -78,14 +78,14 @@ I'm actively seeking a **remote, paid internship** as a **Junior Software Develo
 ### 💻 IDEs & OS
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows,ubuntu,vim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows,ubuntu,vim,eclipse&perline=8" />
 </div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Three.js**, **Better-Auth**, **Django**
+- **Three.js**, **Better-Auth**
 - Advanced **C++**
 
 ---
