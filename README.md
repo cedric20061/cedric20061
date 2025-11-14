@@ -12,10 +12,6 @@ Hi, I'm **Cédric**, a **19-year-old engineering student** passionate about soft
 - 🐍 Proficient in **Python**, **C**, and **TypeScript**, and currently diving into **C++**.
 ---
 
-## 🌟 Opportunity Alert
-
-I'm actively seeking a **remote, paid internship** as a **Junior Software Developer**. I'm eager to apply my knowledge, collaborate with teams, and contribute to impactful projects. If you're hiring, let’s connect!
----
 
 ## ⚡ Fun Facts
 
