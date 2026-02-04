@@ -1,56 +1,56 @@
-# 🌟 Hello, I'm Cédric
+# 🌟 Hello, I’m Cédric
 
 <div align="center">
-  <h3 style="font-size: 24px;">🚀 Engineering Student & Software Developer</h3>
+  <h3>🚀 Engineering Student & Backend-Oriented Software Developer</h3>
 </div>
 
-Passionate about **software engineering**, I’m currently in an **engineering cycle**, strengthening my skills in **computer science**, **mathematics**, and **advanced software architecture**.
-As a growing developer, I love building impactful applications — from **web** to **mobile**, with a strong focus on clean code, scalability, and modern technologies.
+I am an **engineering student** with a strong interest in **software engineering** and **backend development**.
+While I work comfortably across the full stack, my primary focus is on **building reliable, scalable systems**, designing clean APIs, and writing maintainable code.
+
+I enjoy working on **real-world projects**, from full-stack web applications to tooling, automation, and infrastructure fundamentals.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Engineering student specializing in **software development**, **systems**, and **digital technologies**
-* 🧱 Experience building **full-stack web apps** using **MERN**, **Next.js**, and modern backend tools
+* 🎓 Engineering student specialized in **software development**, **systems**, and **digital technologies**
+* 🧱 Strong experience building **full-stack applications** with a **backend-first mindset**
+* 🌐 Main stack: **MERN**, with experience in **Next.js** and modern backend architectures
 * 📱 Currently expanding into **mobile development** with **React Native**
-* 🧠 Enjoy learning new technologies, optimizing projects, and exploring best practices
-* 🐍 Comfortable with **Python**, **C**, **TypeScript**, and progressing in **C++**
+* ⚙️ Interested in **automation**, **tooling**, and **DevOps fundamentals**
+* 🧠 Focused on **clean architecture**, **scalability**, and **long-term maintainability**
 
 ---
 
-## ⚡ Fun Facts
+## 🧩 What I Like Working On
 
-* Big fan of **anime**, **gaming**, and **reading** — certified nerd at heart 🤓🎮📚
-* I love solving problems, building things from scratch, and learning continuously
-
----
-
-## 📫 Contact
-
-* 📧 Email: **[cedricguidi735@gmail.com](mailto:cedricguidi735@gmail.com)**
+* Designing **REST APIs** and backend business logic
+* Structuring applications for **scalability and clarity**
+* Automating repetitive workflows and improving developer productivity
+* Deploying and maintaining applications in production environments
+* Learning new technologies through hands-on projects
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 🖥 Languages
+### 🖥 Programming Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java&perline=8" />
 </div>
 
 ---
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-### **Frontend / Fullstack**
+**Frontend / Full-Stack**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=8" />
 </div>
 
-### **Backend**
+**Backend**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,adonis&perline=8" />
@@ -58,16 +58,16 @@ As a growing developer, I love building impactful applications — from **web** 
 
 ---
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  <span style="font-size: 16px;">+ React Native</span>
+  <span>+ React Native</span>
 </div>
 
 ---
 
-## 🗄 Databases
+### 🗄 Databases
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&perline=8" />
@@ -75,47 +75,45 @@ As a growing developer, I love building impactful applications — from **web** 
 
 ---
 
-## 📚 Libraries & Frameworks
+### 📚 Libraries & Frameworks
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=redux,jquery,materialui,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=redux,materialui,threejs&perline=8" />
 </div>
 
 ---
 
-## ⚙️ Tools & DevOps
+### ⚙️ Tools, Automation & DevOps
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,eslint,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,eslint,postman&perline=8" />
+</div>
+
+* CI/CD pipelines (GitHub Actions)
+* Containerized deployments (Docker)
+* Environment configuration & automation
+* API testing & debugging
+
+---
+
+### 💻 Development Environment
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,ubuntu,windows,vim,eclipse&perline=8" />
 </div>
 
 ---
 
-## ☁️ Hosting
+## 🌱 Currently Learning & Exploring
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,firebase&perline=8" />
-</div>
-
----
-
-## 💻 IDEs & OS
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows,ubuntu,vim,eclipse&perline=8" />
-</div>
+* 📱 **React Native** — mobile application development
+* ⚙️ **Advanced C++** — performance and low-level concepts
+* 🎨 **Three.js** — interactive and 3D web experiences
+* 🧩 Backend architecture & infrastructure best practices
 
 ---
 
-## 🌱 Currently Learning
-
-* 📱 **React Native** (Mobile Development)
-* 🎨 **Three.js** (3D web experiences)
-* ⚙️ Advanced **C++**
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -127,6 +125,16 @@ As a growing developer, I love building impactful applications — from **web** 
 
 ---
 
-> Thanks for visiting — feel free to reach out for a project, collaboration, or just a friendly chat! 👋
+## 📫 Contact
+
+* 📧 Email: **[cedricguidi735@gmail.com](mailto:cedricguidi735@gmail.com)**
+* 💼 Open to **internship / apprenticeship opportunities** in software development
 
 ---
+
+> Thanks for visiting my profile.
+> Feel free to reach out for collaboration, projects, or technical discussions 👋
+
+---
+
+
