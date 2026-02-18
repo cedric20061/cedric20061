@@ -159,13 +159,29 @@ I enjoy turning ideas into **real-world applications**, from full-stack web plat
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table align=center style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api?username=cedric20061&show_icons=true&langs_count=8&count_private=true&layout=compact&bg_color=F1F6F9&text_color=000000&border_color=0000BB&title_color=1FA0D2&icon_color=1FA0D2" alt="Cedric GitHub stats" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/top-langs/?username=cedric20061&langs_count=8&count_private=true&layout=pie&title_color=1FA0D2&bg_color=F1F6F9&text_color=000000&border_color=0000BB" alt="Top Langs" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cedric20061\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric20061\&layout=compact\&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=cedric20061\&theme=radical)
+<hr style="width: 50%; margin: auto;">
 
-</div>
+<p align="center">
+  <a>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=cedric20031&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+
+<br />
+
 
 ---
 
