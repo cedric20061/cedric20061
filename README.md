@@ -171,15 +171,6 @@ I enjoy turning ideas into **real-world applications**, from full-stack web plat
 </table>
 
 <hr style="width: 50%; margin: auto;">
-
-<p align="center">
-  <a>
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cedric20031&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
-</p>
-
 <br />
 
 
