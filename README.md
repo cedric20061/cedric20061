@@ -1,32 +1,33 @@
+
 # 🌟 Hello, I’m Cédric
 
 <div align="center">
   <h3>🚀 Engineering Student & Backend-Oriented Software Developer</h3>
 </div>
 
-I am an **engineering student** with a strong interest in **software engineering** and **backend development**.
-While I work comfortably across the full stack, my primary focus is on **building reliable, scalable systems**, designing clean APIs, and writing maintainable code.
+I am an **engineering student** with a strong focus on **software engineering** and **backend development**.
+While I am comfortable working across the full stack, my primary interest lies in **designing robust APIs**, **building scalable systems**, and **writing clean, maintainable code**.
 
-I enjoy working on **real-world projects**, from full-stack web applications to tooling, automation, and infrastructure fundamentals.
+I enjoy turning ideas into **real-world applications**, from full-stack web platforms to automation tools and low-level software components.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Engineering student specialized in **software development**, **systems**, and **digital technologies**
-* 🧱 Strong experience building **full-stack applications** with a **backend-first mindset**
-* 🌐 Main stack: **MERN**, with experience in **Next.js** and modern backend architectures
-* 📱 Currently expanding into **mobile development** with **React Native**
-* ⚙️ Interested in **automation**, **tooling**, and **DevOps fundamentals**
+* 🎓 Engineering student specializing in **software development**, **systems**, and **digital technologies**
+* 🧱 Backend-first mindset with solid **full-stack experience**
+* 🌐 Main stack centered around **JavaScript/TypeScript**, **Node.js**, and **modern frontend tooling**
+* ⚙️ Strong interest in **automation**, **tooling**, and **DevOps fundamentals**
 * 🧠 Focused on **clean architecture**, **scalability**, and **long-term maintainability**
 
 ---
 
 ## 🧩 What I Like Working On
 
-* Designing **REST APIs** and backend business logic
-* Structuring applications for **scalability and clarity**
-* Automating repetitive workflows and improving developer productivity
+* Designing and implementing **RESTful APIs**
+* Structuring backend applications for **clarity and scalability**
+* Authentication & authorization flows (**JWT-based systems**)
+* Automating repetitive tasks and developer workflows
 * Deploying and maintaining applications in production environments
 * Learning new technologies through hands-on projects
 
@@ -37,79 +38,122 @@ I enjoy working on **real-world projects**, from full-stack web applications to 
 ### 🖥 Programming Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c&perline=8" />
 </div>
 
 ---
 
-### 🌐 Web Development
-
-**Frontend / Full-Stack**
+### 🌐 Frontend & Full-Stack Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&perline=8" />
 </div>
 
-**Backend**
+* React (advanced)
+* Next.js (intermediate)
+* Modern tooling with Vite
+* Responsive UI with modern CSS
+
+---
+
+### 🧱 Backend & Software Engineering
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,adonis&perline=8" />
 </div>
 
----
-
-### 📱 Mobile Development
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  <span>+ React Native</span>
-</div>
+* Node.js backend development
+* Express.js & AdonisJS
+* RESTful API design
+* JWT-based authentication & authorization
 
 ---
 
-### 🗄 Databases
+### 🧠 State Management & UI
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=redux,tailwind&perline=8" />
 </div>
+
+* Redux Toolkit
+* Tailwind CSS
+* shadcn/ui component patterns
 
 ---
 
-### 📚 Libraries & Frameworks
+### 🗄 Databases & Data
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=redux,materialui,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&perline=8" />
 </div>
+
+* MongoDB (advanced)
+* PostgreSQL & SQLite
+* Data modeling and persistence
 
 ---
 
-### ⚙️ Tools, Automation & DevOps
+### 🌍 PWA & Web Standards
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,eslint,postman&perline=8" />
-</div>
-
-* CI/CD pipelines (GitHub Actions)
-* Containerized deployments (Docker)
-* Environment configuration & automation
-* API testing & debugging
+* Progressive Web Apps (PWA)
+* VitePWA
+* Offline-first and installable web apps
 
 ---
 
-### 💻 Development Environment
+### ⚙️ DevOps, Automation & Tooling
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,ubuntu,windows,vim,eclipse&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,bash&perline=8" />
 </div>
+
+* Git & GitHub workflows
+* CI/CD pipelines with GitHub Actions
+* Containerization with Docker
+* Linux-based CLI tooling and scripting
+
+---
+
+### 🧩 Systems & Low-Level Programming
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" height="48" />
+</div>
+
+* C programming
+* GTK for native desktop applications
+* Understanding of low-level concepts
+
+---
+
+### 🐍 Python Ecosystem
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+</div>
+
+* Python scripting and tooling
+* Pygame for interactive and graphical projects
+
+---
+
+### 🌐 Browser Extensions
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=chrome&perline=8" />
+</div>
+
+* Chrome Extensions API (Manifest V3)
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-* 📱 **React Native** — mobile application development
-* ⚙️ **Advanced C++** — performance and low-level concepts
-* 🎨 **Three.js** — interactive and 3D web experiences
-* 🧩 Backend architecture & infrastructure best practices
+* 📱 Mobile development fundamentals
+* ⚙️ Backend architecture best practices
+* 🧩 Advanced system design concepts
+* 🚀 Performance, scalability, and reliability topics
 
 ---
 
@@ -136,5 +180,4 @@ I enjoy working on **real-world projects**, from full-stack web applications to 
 > Feel free to reach out for collaboration, projects, or technical discussions 👋
 
 ---
-
 
