@@ -179,7 +179,6 @@ I enjoy turning ideas into **real-world applications**, from full-stack web plat
 ## 📫 Contact
 
 * 📧 Email: **[cedricguidi735@gmail.com](mailto:cedricguidi735@gmail.com)**
-* 💼 Open to **internship / apprenticeship opportunities** in software development
 
 ---
 
